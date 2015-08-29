@@ -31,6 +31,10 @@ pod install
 
 * *DonggukMeals.xcworkspace)* 파일을 열어 Simulator 혹은 iOS Device에 실행합니다.
 
+## 해야할 일들
+* 코드 리팩토링
+* API 문서 작성 
+
 ## 저작권
 ### [MIT](https://github.com/DarrenLine/DonggukLibrary/blob/develop/LICENSE)
 소스코드 참고 및 사용시 저에게 [알려주는건 어떠신가요?](mailto:koreandarren@gmail.com)
